@@ -21,3 +21,5 @@ drinks_age()
 # returns the season and types of clothing you should choose based on the temperature you specify
 clothing()
 ```
+
+Best way to practice!
